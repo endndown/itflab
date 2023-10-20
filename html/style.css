@@ -1,0 +1,26 @@
+body{
+    background-color: antiquewhite;
+}
+
+.pic{
+    width: 25%;
+    height: 25%;
+    position: center;
+    margin-left: 35%;
+}
+
+.text1{
+    font-size: 200%;
+    color: goldenrod;
+    text-align: center;
+}
+
+.resume{
+    font-size: 100%;
+    color: goldenrod;
+    text-align: center;
+}
+
+.ig{
+    margin-left: 45%;
+}
